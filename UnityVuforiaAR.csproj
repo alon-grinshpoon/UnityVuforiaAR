@@ -89,6 +89,9 @@
     <Compile Include="Assets\Common\TapHandler.cs" />
     <Compile Include="Assets\Common\TrackableSettings.cs" />
     <Compile Include="Assets\Scripts\ModelSwap.cs" />
+    <Compile Include="Assets\Scripts\RotateObject.cs" />
+    <Compile Include="Assets\Scripts\UserInterfaceButtons.cs" />
+    <Compile Include="Assets\Scripts\vbScript.cs" />
     <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
